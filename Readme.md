@@ -6,10 +6,11 @@ Memefy is an amazing image based Meme App which shows random meme's fetched from
 ![MEME API](https://meme-api.herokuapp.com/gimme)
 
 ### APK 
-![Memefy APK]()
+![Memefy APK](https://drive.google.com/file/d/1aaSlMJAQ0MvlYRCdD8rdgDSOytA_NGxD/view)
 
 ## Output
-![Output sample]()
+
+![](https://github.com/yuvrajangula/memify/blob/master/output/memefy_output.gif)
 
 # Want to contribute? Great!
 1. Fork this repo
